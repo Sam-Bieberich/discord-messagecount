@@ -32,4 +32,4 @@ The code in this repository does not save or transmit any of this sensitive data
 
 ## Usage
 
-Clone this repository and run the jupyter notebooks. 
+Clone this repository and run the jupyter notebook. The first cell tabulates all of the data, and the second puts the top 10 channels into a pie chart. 
